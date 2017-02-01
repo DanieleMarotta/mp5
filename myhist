@@ -1,0 +1,38 @@
+    1  pwd
+    2  mkdir mp1
+    3  cd mp1
+    4  git init
+    5  ls -l
+    6  ls -al
+    7  vi names.txt
+    8  vi names.txt
+    9  bash names.txt
+   10  git status
+   11  git add.
+   12  git add .
+   13  git status
+   14  git commit -m "My message\n\nMessage details"
+   15  git status
+   16  git status
+   17  git log
+   18  git log --oneline
+   19  git log --oneline
+   20  git push
+   21  git remote add origin https://github.com/DanieleMarotta/mp5.git
+   22  git push -u origin master
+   23  git status
+   24  git log
+   25  git commit --amend
+   26  :q!
+   27  git commit --amend -m "initial"
+   28  git log
+   29  git remote add origin https://github.com/DanieleMarotta/mp5.git
+   30  git push -u origin master
+   31  git push -u origin master
+   32  pwdwq
+   33  git log
+   34  clear
+   35  git log --oneline
+   36  git log
+   37  history
+   38  history > myhist
